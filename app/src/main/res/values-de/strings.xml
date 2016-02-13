@@ -320,7 +320,7 @@
     <string name="about">Über</string>
     <string name="about_desc"><![CDATA[
         \u00A9 2015 XBMC Foundation.<br><br>
-        Bitte bewerten Sie uns bei <b><a href="market://details?id=org.xbmc.kore">Google Play</a></b><br><br>
+        Bitte bewerten Sie uns bei <b><a href="market://details?id=com.thibault01.knet_replay_kore">Google Play</a></b><br><br>
 
         Wenn Sie Hilfe brauchen, sehen Sie sich unser <b><a href="http://forum.kodi.tv/forumdisplay.php?fid=129">Forum</a> an.</b>
     ]]></string>

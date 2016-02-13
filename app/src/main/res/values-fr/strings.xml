@@ -34,6 +34,7 @@
 	<string name="pictures">Images</string>
     <string name="addons">Extensions</string>
 
+
     <string name="no_xbmc_configured">Aucun centre multimédia configuré</string>
     <string name="add_xbmc">Ajouter un Centre Multimédia</string>
 
@@ -272,7 +273,7 @@
     <string name="about">À propos</string>
     <string name="about_desc"><![CDATA[
         \u00A9 2015 XBMC Foundation.<br><br>
-        Évaluez-nous sur <b><a href="market://details?id=org.xbmc.kore">Google Play</a></b><br><br>
+        Évaluez-nous sur <b><a href="market://details?id=com.thibault01.knet_replay_kore">Google Play</a></b><br><br>
 
         Si vous avez besoin d\'aide, consultez le <b><a href="http://forum.kodi.tv/forumdisplay.php?fid=129">forum</a></b>
     ]]></string>

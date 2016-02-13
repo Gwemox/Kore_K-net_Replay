@@ -1,25 +1,15 @@
 apply plugin: 'com.android.application'
 
-def getVersionName = { ->
-    def stdout = new ByteArrayOutputStream()
-    exec {
-        commandLine 'git', 'describe', '--tags'
-        standardOutput = stdout
-    }
-    return stdout.toString().trim()
-}
-
-
 android {
     compileSdkVersion 22
     buildToolsVersion "22.0.1"
 
     defaultConfig {
-        applicationId "org.xbmc.kore"
+        applicationId "com.thibault01.knet_replay_kore"
         minSdkVersion 15
         targetSdkVersion 22
-        versionCode 13
-        versionName = getVersionName()
+        versionCode 16
+        versionName = "V1.0 BETA (build 16)"
     }
 
     File keystoreFile = file('keystore.properties')

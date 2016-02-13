@@ -49,6 +49,7 @@
         <item>@string/pvr</item>
         <item>@string/files</item>
         <item>@string/addons</item>
+        <item>@string/replays</item>
     </string-array>
 
     <!-- Download connection types -->
@@ -76,6 +77,7 @@
         <item>5</item>
         <item>6</item>
         <item>7</item>
+        <item>9</item>
     </string-array>
 
 </resources>

@@ -16,7 +16,7 @@
 -->
 <resources>
 
-    <string name="app_name">Kore</string>
+    <string name="app_name">K-net Replay - Kore</string>
     <string name="settings">Settings</string>
     <string name="action_options">Options</string>
 
@@ -327,7 +327,7 @@
     <string name="about">About</string>
     <string name="about_desc"><![CDATA[
         \u00A9 2015 XBMC Foundation.<br><br>
-        Please rate us on <b><a href="market://details?id=org.xbmc.kore">Google Play</a></b><br><br>
+        Please rate us on <b><a href="market://details?id=com.thibault01.knet_replay_kore">Google Play</a></b><br><br>
 
         If you need help, check our <b><a href="http://forum.kodi.tv/forumdisplay.php?fid=129">forum</a></b>
     ]]></string>
@@ -367,4 +367,34 @@
     <string name="cannot_move_playing_item">Cannot move currently playing/paused item</string>
     <string name="no_connection_type_selected">No connection type selected in settings</string>
 
+    <!-- Replay -->
+
+    <string name="replays">Replays</string>
+    <string name="details_replay">Plus d\'informations</string>
+
+    <string name="rts1">RTS1</string>
+    <string name="rts2">RTS2</string>
+    <string name="tf1">TF1 HD</string>
+    <string name="france2">France 2 HD</string>
+    <string name="france3">France 3</string>
+    <string name="france5">France 5</string>
+    <string name="m6hd">M6 HD</string>
+    <string name="arte">Arte HD</string>
+    <string name="d8">D8</string>
+    <string name="w9">W9</string>
+    <string name="tmc">TMC</string>
+    <string name="nt1">NT1</string>
+    <string name="nrj12">NRJ 12</string>
+    <string name="lcp">LCP</string>
+    <string name="france4">France 4</string>
+    <string name="d17">D17</string>
+    <string name="gulli">Gulli</string>
+    <string name="franceo">France Ô</string>
+    <string name="hd1">HD1</string>
+    <string name="equipe21">L\'équipe 21</string>
+    <string name="_6ter">6TER</string>
+    <string name="numero23">Numéro 23</string>
+    <string name="rmc">RMC DECOUVERTE</string>
+    <string name="cherie25">Chérie 25</string>
+    <string name="m6">M6 SD</string>
 </resources>

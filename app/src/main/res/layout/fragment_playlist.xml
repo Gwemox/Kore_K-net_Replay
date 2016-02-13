@@ -23,7 +23,7 @@
     <include layout="@layout/remote_info_panel"/>
 
     <!-- Playlist -->
-    <org.xbmc.kore.ui.viewgroups.DynamicListView
+    <com.thibault01.knet_replay_kore.ui.viewgroups.DynamicListView
         android:id="@+id/playlist"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

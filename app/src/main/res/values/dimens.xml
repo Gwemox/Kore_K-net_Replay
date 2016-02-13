@@ -119,6 +119,9 @@
     <dimen name="filelist_art_width">52dp</dimen>
     <dimen name="filelist_art_heigth">76dp</dimen>
 
+    <dimen name="replaylist_art_width">52dp</dimen>
+    <dimen name="replaylist_art_heigth">100dp</dimen>
+
     <dimen name="channellist_art_width">74dp</dimen>
     <dimen name="channellist_art_heigth">74dp</dimen>
 
