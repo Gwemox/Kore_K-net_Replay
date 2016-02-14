@@ -16,7 +16,7 @@
    limitations under the License.
 -->
 <resources>
-  <string name="app_name">Kore</string>
+  <string name="app_name">K-net Replay - Kore</string>
   <string name="settings">Instellingen</string>
   <string name="action_options">Opties</string>
   <string name="loading">Laden&#8230;</string>

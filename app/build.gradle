@@ -8,8 +8,8 @@ android {
         applicationId "com.thibault01.knet_replay_kore"
         minSdkVersion 15
         targetSdkVersion 22
-        versionCode 16
-        versionName = "V1.0 BETA (build 16)"
+        versionCode 17
+        versionName = "V1.0 BETA (build 17)"
     }
 
     File keystoreFile = file('keystore.properties')
